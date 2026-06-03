@@ -1792,10 +1792,6 @@ img {
     padding: 24px;
   }
 
-  .logo-placeholder {
-    height: 300px;
-  }
-
   .founder-image-placeholder {
     min-height: 280px;
   }
@@ -3035,24 +3031,6 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
-}
-
-.curriculum-note-card {
-  padding: 24px;
-  border-radius: 34px;
-  background: linear-gradient(
-    135deg,
-    rgba(39, 40, 45, 0.82),
-    rgba(8, 24, 39, 0.94),
-    rgba(66, 45, 16, 0.52)
-  );
-  border: 1px solid rgba(255,255,255,0.08);
-  box-shadow:
-    0 22px 56px rgba(0,0,0,0.34),
-    0 0 44px rgba(246, 169, 0, 0.10);
-  position: relative;
-  overflow: hidden;
-  margin-top: -6px;
 }
 
 .curriculum-note-card::before {
